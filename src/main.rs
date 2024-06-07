@@ -1,3 +1,4 @@
+mod r#README
 
 use std::collections::HashMap;
 

@@ -1,0 +1,1 @@
+Até então apenas estava na criação dos MÉTODOS do sistema, não conseguir executá-los na main
